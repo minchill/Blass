@@ -1,2 +1,4 @@
 discord
 flask
+gtts
+pydub
